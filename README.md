@@ -1,4 +1,4 @@
-[ВУЦ.html](https://github.com/nikolay-vasilev27/FIRE-11-14--9170174/blob/main/%D0%92%D0%A3%D0%A6.html)
+[ВУЦ.html](file:///C:/Users/Ryzen1030/Downloads/%D0%92%D0%A3%D0%A6.html)
 # Положение о военно‑учебном центре (ВУЦ)
 
 **Утверждено:** командиром в/ч № 9170174  
