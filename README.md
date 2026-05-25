@@ -1,5 +1,4 @@
-[Readme.md](https://github.com/user-attachments/files/28212169/Readme.md)
-<!DOCTYPE html>
+
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
